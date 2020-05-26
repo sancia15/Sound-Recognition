@@ -11,10 +11,16 @@ Instructions:
 1. For speech recognition :
 
 pip install speech-recognition
+
+
 2. API used here is recognize_google()
+
+
 3.To work with microphone we need to use pyaudio:
 
 pip install PyAudio
+
+
 
 4. In order to use web browser:
 
