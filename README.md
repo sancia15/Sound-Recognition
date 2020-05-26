@@ -8,13 +8,16 @@ Features are:
 3. Searching a query using speech inside the URL
      
 Instructions:
-1. For speech recognition 
+1. For speech recognition :
+
 pip install speech-recognition
 
-API used here is recognize_google()
+2. API used here is recognize_google()
 
-2.To work with microphone we need to use pyaudio
+3.To work with microphone we need to use pyaudio:
+
 pip install PyAudio
 
-3.In order to use web browser 
+4. In order to use web browser:
+
 import webbrowser
