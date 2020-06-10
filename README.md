@@ -1,5 +1,5 @@
-# Sound-Recognition
-Sound to text translation using python 
+# Speech-Recognition
+Speech to text translation using python 
 
 
 Features are:
